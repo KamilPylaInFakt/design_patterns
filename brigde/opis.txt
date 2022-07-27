@@ -1,0 +1,6 @@
+Most w przeciwieństwie do Adaptera nie jest osobną klasą,
+stanowi jedynie wzorzec struktury trorzenia klas.
+Posiada warstwę absrtrakcyjną, oraz warstwę implementacji.
+Warstwa absrtrakcyjna posiada zestaw metod, które implementuje jak sama nazwa wskazuje warstwa implementacji.
+Strona implementacji występuje jako pole w warstwie abstrakcyjnej.
+W zalezności od rodzaju klasy implementacyjnej finanlny efekt działania programu będzie inny.
