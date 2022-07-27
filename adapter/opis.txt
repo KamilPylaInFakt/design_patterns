@@ -1,0 +1,4 @@
+Adapter słuzy jako pośrednik pomiędzy dwoma obiektami / strukturami o niekompatybilnych interfersach.
+Jednym z przykładów zastosowania, jest konwersja między jednostkami, bądź formatami.
+Konwersja z xml do json.
+Przykładem z w aplikacjach InFaktowych jest zastosowanie Selializerów.
