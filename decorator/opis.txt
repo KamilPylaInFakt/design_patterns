@@ -1,0 +1,4 @@
+Wzorca dekorator uzywa się, gdy potrzebujemy rozszezyć metody danej klasy.
+Klasa ta wykorzystuje istniejące pola, metody do innych zastosowań.
+Wzorzec dekorator ułatwia wielokrotne wykorzystanie tego samego kodu.
+W Infakt większość modeli posiada swoje dekoratory.
