@@ -1,0 +1,4 @@
+Wzorzec pyłka stosuje się wtedy, gdy mamy potrzebę utworzenia bardzo duzej ilości obiektów,
+których kazdy wymaga wiele zasobów pamięci. Zaoszczędzenie pamięci mozna uzyskać przez wydzielenie części
+zasobów, metod do osobnych obiektów. Kazdy z obiektów podobnego typu moze przechowywać wspólny obiekt,
+jako pole klasy.
