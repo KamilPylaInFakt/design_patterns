@@ -1,0 +1,3 @@
+Fasada jest wzorcem podobnym w swojej konstrukcji do adaptera, jednak jego cel jest inny.
+Fasada słuzy jako pośrednik pomiędzy kodem biznesowym a klientem.
+Głównym celem jest stworzenie interfejsu którym moze posługiwać się klient - hermetyzacja, bezpieczeństwo
